@@ -3,7 +3,7 @@
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/atulkamble/aws-ec2-s3-static-website.git
+https://github.com/Yadnyesh13/aws-ec2-s3-static-website.git
 cd aws-ec2-s3-static-website
 ```
 
